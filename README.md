@@ -1,2 +1,2 @@
-# Hangman_game
-The Famous Hangman game
+# Hangman game
+A desktop application of the famous hangman game
