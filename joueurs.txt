@@ -1,0 +1,16 @@
+samir;715;
+ali;26;42;53;56;110;211;309;
+abdou;12;14;33;56;86;111;113;150;169;249;254;301;
+raouf;124;
+bilel;111;
+zohra;55;
+nadir;35;
+Yacine;18;
+Brahim;15;
+djellal;0;
+nassim;0;
+yacine;0;
+yassine;0;
+tek;0;
+kadour;0;
+jxz;0;
